@@ -20,8 +20,7 @@ body {
   width:250px;
 }
 </style>
-<div>
-<a href="About Me.html"><button class="button Home" style:"float:left"><b>About Me</b></button></a>
+<a href="About Me.html"><div><button class="button Home" style:"float:left"><b>About Me</b></button></a></div>
 <a href="College Projects.html"><button class="button College" style:"float:center"><b>College Projects</b></button></a>
 <a href="Literary Work.html"><button class="button Literat" style:"float:rïght"><b>Literary Work</b></button>
   </div>

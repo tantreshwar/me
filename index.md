@@ -9,7 +9,7 @@ body {
   background-attachment: fixed;
   background-size: 100% 100%;
 }
-.button,a {
+.button {
   background-color: #909497 ; 
   border: none;
   color: white;

@@ -17,7 +17,7 @@ body {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  margin: 44px 69px;
+  margin: 10px 10px;
   cursor: pointer;
   width:250px;
 }

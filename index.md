@@ -1,4 +1,7 @@
 <!DOCTYPE HTML>
+<html>
+<head><title>Tantreshwar Kumar</title></head>
+<body>
 <style>
 body {
   background-image: url('New.jpg');
@@ -6,7 +9,7 @@ body {
   background-attachment: fixed;
   background-size: 100% 100%;
 }
-.button {
+.button,a {
   background-color: #909497 ; 
   border: none;
   color: white;
@@ -20,9 +23,10 @@ body {
   width:250px;
 }
 </style>
-<body>
-<a href="About Me.html"><div button class="button Home" style:"float:left"><b>About Me</b></div></a>
-<a href="College Projects.html"><button class="button College" style:"float:center"><b>College Projects</b></button></a>
-<a href="Literary Work.html"><button class="button Literat" style:"float:rïght"><b>Literary Work</b></button></a>
+<div>
+	<a href="About Me.html" class="button Home" style="float:left"><b>About Me</b></a>
+	<a href="College Projects.html" class="button College" style="float:center"><b>College Projects</b></a>
+	<a href="Literary Work.html" class="button Literat" style="float:rïght"><b>Literary Work</b></a>
+</div>
 </body>
 </html>

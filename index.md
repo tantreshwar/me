@@ -21,7 +21,7 @@ body {
 }
 </style>
 <div>
-  <button style:"float:left"><b><a href="About Me.html">About Me</a></b></button>
+  <a href="About Me.html"><button style:"float:left"><b>About Me</b></button></a>
 <a href="College Projects.html"><button class="button College" style:"float:center"><b>College Projects</b></button></a>
 <a href="Literary Work.html"><button class="button Literat" style:"float:rïght"><b>Literary Work</b></button>
 </div>

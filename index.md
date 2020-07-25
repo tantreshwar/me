@@ -1,4 +1,3 @@
-<!DOCTYPE HTML>
 <html>
 <head><title>Tantreshwar Kumar</title></head>
 <body>

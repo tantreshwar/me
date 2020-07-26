@@ -20,6 +20,7 @@ body {
     font-size: 16px;
     margin-left: 11.3%;
     margin-right: 11.3%;
+	border-radius: 8px;
     width: 10%;
 }
 </style>

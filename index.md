@@ -10,20 +10,17 @@ body {
 }
 
 .button{
-  background-color: #909497 ; 
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin-top: 44px 98px;
-  margin-bottom: 44px 98px;
-  margin-left: 11.66666666666667%;
-  margin-right: 11.66666666666667%;
-  width:10%;  
-  cursor: pointer;  
+	background-color: #909497;
+    border: none;
+    color: white;
+    padding: 5px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 11.3%;
+    margin-right: 11.3%;
+    width: 10%;
 }
 </style>
 <div>
